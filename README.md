@@ -5,7 +5,6 @@ Welcome to my GitHub! I'm a passionate developer and tech enthusiast who loves w
 - 👀 I’m interested in Python, Machine Learning, Deep Learning, Artificial Intelligence, Robotics, Embedded Systems, Web development and all things Computer Science!
 - 🌱 I’m currently learning C++ and NLP.
 
-
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-shenoy30) 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rohan.shenoy30)
@@ -28,6 +27,9 @@ Welcome to my GitHub! I'm a passionate developer and tech enthusiast who loves w
 ## 📈 GitHub Stats:
 ![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanshenoy30&show_icons=true&hide_border=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanshenoy30&layout=compact&hide_border=true&theme=radical)
+
+## 🔥 GitHub Streak:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rohanshenoy30&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohanshenoy30&theme=monokai&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
