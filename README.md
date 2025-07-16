@@ -3,7 +3,6 @@
 Welcome to my GitHub! I'm a passionate developer and tech enthusiast who loves working on projects. I'm always eager to explore the intersection of AI and real-world applications.
 
 - 👀 I’m interested in Python, Machine Learning, Deep Learning, Artificial Intelligence, Robotics, Embedded Systems, Web development and all things Computer Science!
-- 🌱 I’m currently learning C++ and NLP.
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-shenoy30) 
