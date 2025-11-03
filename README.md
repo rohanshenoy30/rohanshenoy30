@@ -40,8 +40,6 @@ Welcome to my GitHub! I'm a passionate developer and tech enthusiast who loves w
 ![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanshenoy30&show_icons=true&hide_border=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanshenoy30&layout=compact&hide_border=true&theme=radical)
 
-## 🔥 GitHub Streak:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rohanshenoy30&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=rohanshenoy30&theme=monokai&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
