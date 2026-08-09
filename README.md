@@ -72,4 +72,3 @@ Cloud           Microsoft Azure · Azure AI Search · Microsoft Foundry
 Backend         .NET · ASP.NET Web API · REST APIs · LINQ
 Robotics        ROS · ROS2 · Gazebo · PX4
 Tools           Git · GitHub · Azure DevOps
----
