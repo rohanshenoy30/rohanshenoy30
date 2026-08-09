@@ -1,6 +1,6 @@
 <div align="center">
 
-# <code>rohan</code>
+# <code>Rohan</code>
 
 
 <img src="./assets/contrib-heatmap.svg" width="860" />
