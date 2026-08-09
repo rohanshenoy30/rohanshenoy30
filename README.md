@@ -1,6 +1,6 @@
 <div align="center">
 
-# <code>rohan@github</code>
+# <code>rohan</code>
 
 <code>./contributions.sh</code>
 
@@ -74,12 +74,7 @@ Cloud           Microsoft Azure · Azure AI Search · Microsoft Foundry
 Backend         .NET · ASP.NET Web API · REST APIs · LINQ
 Robotics        ROS · ROS2 · Gazebo · PX4
 Tools           Git · GitHub · Azure DevOps
-## <code>currently_exploring</code>
-> Agentic AI
-> Multi-Agent Systems
-> Retrieval-Augmented Generation
-> Computer Vision
-> Autonomous Robotics
-> Enterprise AI
+---
+
 ## <code>connect</code>
 <div align="center"> <a href="https://github.com/rohanshenoy30"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> </div> ```
