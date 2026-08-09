@@ -1,0 +1,560 @@
+<svg
+xmlns="http://www.w3.org/2000/svg"
+width="560"
+height="690"
+viewBox="0 0 560 690">
+
+<rect
+width="100%"
+height="100%"
+rx="14"
+fill="#0D1117"
+stroke="#30363D"
+stroke-width="2"/>
+
+<style>
+
+.title {
+    font-family: "SFMono-Regular", "Menlo", "Monaco",
+                 "Courier New", monospace;
+    font-size: 25px;
+    font-weight: bold;
+    fill: #F0F6FC;
+}
+
+.section {
+    font-family: "SFMono-Regular", "Menlo", "Monaco",
+                 "Courier New", monospace;
+    font-size: 15px;
+    font-weight: bold;
+    fill: #58A6FF;
+}
+
+.key {
+    font-family: "SFMono-Regular", "Menlo", "Monaco",
+                 "Courier New", monospace;
+    font-size: 13px;
+    fill: #8B949E;
+}
+
+.value {
+    font-family: "SFMono-Regular", "Menlo", "Monaco",
+                 "Courier New", monospace;
+    font-size: 13px;
+    fill: #C9D1D9;
+}
+
+.accent {
+    font-family: "SFMono-Regular", "Menlo", "Monaco",
+                 "Courier New", monospace;
+    font-size: 13px;
+    font-weight: bold;
+    fill: #3FB950;
+}
+
+.bullet {
+    font-family: "SFMono-Regular", "Menlo", "Monaco",
+                 "Courier New", monospace;
+    font-size: 14px;
+    fill: #3FB950;
+}
+
+.small {
+    font-family: "SFMono-Regular", "Menlo", "Monaco",
+                 "Courier New", monospace;
+    font-size: 11px;
+    fill: #8B949E;
+}
+
+.divider {
+    font-family: "SFMono-Regular", "Menlo", "Monaco",
+                 "Courier New", monospace;
+    font-size: 12px;
+    fill: #30363D;
+}
+
+</style>
+
+
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.15s"
+            fill="freeze"
+        />
+
+        <text x="30" y="42" class="title">
+            rohan@github
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.22s"
+            fill="freeze"
+        />
+
+        <text x="30" y="72" class="divider">
+            ────────────────────────────────────────
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.29s"
+            fill="freeze"
+        />
+
+        <text x="30" y="108" class="section">
+            identity
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.36s"
+            fill="freeze"
+        />
+
+        <text x="30" y="140" class="key">
+            Name
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.43s"
+            fill="freeze"
+        />
+
+        <text x="150" y="140" class="value">
+            Rohan Shenoy
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.50s"
+            fill="freeze"
+        />
+
+        <text x="30" y="168" class="key">
+            Education
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.57s"
+            fill="freeze"
+        />
+
+        <text x="150" y="168" class="value">
+            Manipal Institute of Technology
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.64s"
+            fill="freeze"
+        />
+
+        <text x="30" y="196" class="key">
+            Degree
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.71s"
+            fill="freeze"
+        />
+
+        <text x="150" y="196" class="value">
+            Computer Science &amp; Engineering
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.78s"
+            fill="freeze"
+        />
+
+        <text x="30" y="224" class="key">
+            Status
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.85s"
+            fill="freeze"
+        />
+
+        <text x="150" y="224" class="value">
+            Final Year
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.92s"
+            fill="freeze"
+        />
+
+        <text x="30" y="275" class="section">
+            experience
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="0.99s"
+            fill="freeze"
+        />
+
+        <text x="30" y="307" class="accent">
+            Microsoft
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="1.06s"
+            fill="freeze"
+        />
+
+        <text x="150" y="307" class="value">
+            AI Business Solutions
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="1.13s"
+            fill="freeze"
+        />
+
+        <text x="30" y="339" class="accent">
+            Deloitte
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="1.20s"
+            fill="freeze"
+        />
+
+        <text x="150" y="339" class="value">
+            Tax Technology Consulting
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="1.27s"
+            fill="freeze"
+        />
+
+        <text x="30" y="371" class="accent">
+            AeroMIT
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="1.34s"
+            fill="freeze"
+        />
+
+        <text x="150" y="371" class="value">
+            Autonomous Drone Research
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="1.41s"
+            fill="freeze"
+        />
+
+        <text x="30" y="420" class="section">
+            focus
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="1.48s"
+            fill="freeze"
+        />
+
+        <text x="30" y="452" class="bullet">
+            ▸
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="1.55s"
+            fill="freeze"
+        />
+
+        <text x="55" y="452" class="value">
+            Agentic AI
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="1.62s"
+            fill="freeze"
+        />
+
+        <text x="30" y="479" class="bullet">
+            ▸
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="1.69s"
+            fill="freeze"
+        />
+
+        <text x="55" y="479" class="value">
+            Retrieval-Augmented Generation
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="1.76s"
+            fill="freeze"
+        />
+
+        <text x="30" y="506" class="bullet">
+            ▸
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="1.83s"
+            fill="freeze"
+        />
+
+        <text x="55" y="506" class="value">
+            Machine Learning
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="1.90s"
+            fill="freeze"
+        />
+
+        <text x="30" y="533" class="bullet">
+            ▸
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="1.97s"
+            fill="freeze"
+        />
+
+        <text x="55" y="533" class="value">
+            Computer Vision
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="2.04s"
+            fill="freeze"
+        />
+
+        <text x="30" y="560" class="bullet">
+            ▸
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="2.11s"
+            fill="freeze"
+        />
+
+        <text x="55" y="560" class="value">
+            Robotics
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="2.18s"
+            fill="freeze"
+        />
+
+        <text x="30" y="600" class="section">
+            stack
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="2.25s"
+            fill="freeze"
+        />
+
+        <text x="30" y="630" class="small">
+            Python • C++ • C# • .NET • Azure
+        </text>
+    </g>
+    
+    <g opacity="0">
+        <animate
+            attributeName="opacity"
+            from="0"
+            to="1"
+            dur="0.35s"
+            begin="2.32s"
+            fill="freeze"
+        />
+
+        <text x="30" y="653" class="small">
+            ROS2 • OpenCV • TensorFlow • Git
+        </text>
+    </g>
+    
+
+</svg>
