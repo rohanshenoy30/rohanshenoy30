@@ -2,7 +2,6 @@
 
 # <code>rohan</code>
 
-<code>./contributions.sh</code>
 
 <img src="./assets/contrib-heatmap.svg" width="860" />
 
