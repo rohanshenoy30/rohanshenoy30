@@ -1,0 +1,133 @@
+<svg
+xmlns="http://www.w3.org/2000/svg"
+width="900"
+height="500"
+viewBox="0 0 900 500">
+
+<rect width="900" height="500" fill="#0D1117"/>
+
+<style>
+.ascii {
+    font-family: "SFMono-Regular", "Menlo", "Monaco",
+                 "Courier New", monospace;
+    font-size: 8px;
+    fill: #58A6FF;
+    white-space: pre;
+}
+
+.title {
+    font-family: "SFMono-Regular", "Menlo", "Monaco",
+                 "Courier New", monospace;
+    font-size: 30px;
+    font-weight: bold;
+    fill: #F0F6FC;
+}
+
+.subtitle {
+    font-family: "SFMono-Regular", "Menlo", "Monaco",
+                 "Courier New", monospace;
+    font-size: 16px;
+    fill: #8B949E;
+}
+</style>
+
+<text
+x="450"
+y="60"
+text-anchor="middle"
+class="title">
+ROHAN SHENOY
+</text>
+
+<text
+x="450"
+y="90"
+text-anchor="middle"
+class="subtitle">
+AI • ML • ROBOTICS • AGENTIC AI
+</text>
+
+<line
+x1="150"
+y1="110"
+x2="750"
+y2="110"
+stroke="#30363D"
+stroke-width="2"/>
+
+<text
+x="450"
+y="145"
+text-anchor="middle"
+class="subtitle">
+INITIALIZING PROFILE...
+</text>
+
+<g transform="translate(100,170)">
+<rect
+x="0"
+y="0"
+width="700"
+height="280"
+rx="12"
+fill="#161B22"
+stroke="#30363D"/>
+
+<text
+x="350"
+y="40"
+text-anchor="middle"
+class="subtitle">
+&gt; system.boot()
+</text>
+
+<text
+x="350"
+y="70"
+text-anchor="middle"
+class="subtitle">
+&gt; loading_rohan.sh
+</text>
+
+<text
+x="350"
+y="100"
+text-anchor="middle"
+class="subtitle">
+&gt; AI systems online
+</text>
+
+<text
+x="350"
+y="130"
+text-anchor="middle"
+class="subtitle">
+&gt; robotics modules online
+</text>
+
+<text
+x="350"
+y="160"
+text-anchor="middle"
+class="subtitle">
+&gt; computer vision online
+</text>
+
+<text
+x="350"
+y="190"
+text-anchor="middle"
+class="subtitle">
+&gt; profile ready
+</text>
+
+<text
+x="350"
+y="235"
+text-anchor="middle"
+class="ascii">
+[ ROHAN SHENOY ]
+</text>
+</g>
+
+</svg>
