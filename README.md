@@ -8,7 +8,6 @@
 
 <br>
 
-<code>./whoami</code>
 
 <table>
 <tr>
@@ -26,13 +25,13 @@
 
 ---
 
-## <code>about_me</code>
+## <code>About Me</code>
 
 I'm **Rohan Shenoy**, a final-year **Computer Science & Engineering student at Manipal Institute of Technology**.
 
 I'm interested in building intelligent systems that bridge **AI, software engineering, and real-world applications**, with experience spanning Agentic AI, Machine Learning, Computer Vision, and Robotics.
 
-### <code>experience</code>
+### <code>Experience</code>
 
 **Microsoft — AI Business Solutions | Technology Consultant Intern**  
 `May – July 2026`
@@ -64,7 +63,7 @@ I'm interested in building intelligent systems that bridge **AI, software engine
 
 ---
 
-## <code>tech_stack</code>
+## <code>Tech stack</code>
 
 ```text
 Languages       Python · C++ · C#
@@ -75,6 +74,3 @@ Backend         .NET · ASP.NET Web API · REST APIs · LINQ
 Robotics        ROS · ROS2 · Gazebo · PX4
 Tools           Git · GitHub · Azure DevOps
 ---
-
-## <code>connect</code>
-<div align="center"> <a href="https://github.com/rohanshenoy30"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> </div> ```
